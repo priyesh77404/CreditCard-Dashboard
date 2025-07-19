@@ -70,11 +70,7 @@ This dashboard is created for educational purposes and based on fictional or ano
 
 ---
 
-## 🧑‍💻 Author
 
-**Anany Lohia**  
-📧 ananyatworkk@gmail.com  
-🌐 [LinkedIn](https://www.linkedin.com/in/ananyakrlohia/)
 
 ---
 
